@@ -19,7 +19,7 @@
   - [ ] RocketMQ
   - [ ] Kafka
 - [ ] Redis
-- [ ] Rpc
+- [ ] RPC
 - [ ] ES
 - [ ] NGINX
 - [ ] 设计模式
@@ -40,9 +40,6 @@
 2. 持之以恒，坚持不懈
 
 ## 学习的目标
-- 一年半后进入大厂
-
----
-> current date: 2020-11-05 00:31:58
-
-我有很强烈的愿望成为一个很厉害的工程师，不想在每日的业务代码中迷失自己，务必成功！！！
+- Be a real solid coder.
+- Work in FLAG.
+- Write a software of my own.
